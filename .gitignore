@@ -7,7 +7,7 @@ node_modules/
 
 # 日志
 *.log
-s
+
 # 编辑器文件
 .vscode/
 .idea/
